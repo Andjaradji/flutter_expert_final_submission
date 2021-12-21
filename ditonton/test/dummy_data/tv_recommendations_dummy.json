@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/path.jpg",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "id": 63174,
+      "media_type": "tv",
+      "name": "Tv Recommendation Name",
+      "original_language": "en",
+      "original_name": "Recommendation Tv Series",
+      "overview": "An Overview of tv recommendation",
+      "popularity": 1080.091,
+      "poster_path": "/path.jpg",
+      "first_air_date": "2016-01-25",
+      "vote_average": 8.538,
+      "vote_count": 10916
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

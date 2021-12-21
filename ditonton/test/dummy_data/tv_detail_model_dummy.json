@@ -1,0 +1,22 @@
+{
+  "backdrop_path": "/path.jpg",
+  "first_air_date": "2006-09-18",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.dummy.com/",
+  "id": 1969,
+  "name": "Tv Series Name",
+  "original_language": "en",
+  "original_name": "Original Tv Series Name",
+  "overview": "This an overview for Tv Series",
+  "popularity": 1904.107,
+  "poster_path": "/path.jpg",
+  "status": "Returning Series",
+  "tagline": "",
+  "vote_average": 5.3,
+  "vote_count": 37
+}
